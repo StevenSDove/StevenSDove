@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning things closely related to my position with SCU.
 - 💞️ I’m not really looking to collaborate at the moment... all of my time is being eaten by work and family.
 - 📫 You can find me on linkedin - link is in the bio.
+- 🏢 Due to my work agreement at the moment, any open source work will require special permission to avoid any ownership conflicts.
 
 <!---
 StevenSDove/StevenSDove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
