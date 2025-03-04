@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @StevenSDove
-- 👀 I’m interested in video game development, business systems integrations, business intelligence, and machine learning.
-- 🌱 I’m currently learning business intelligence and machine learning.
-- 💞️ I’m not really looking to collaborate at the moment... all of my time is being eaten by work.
-- 📫 You can find me on linkedin - same profile name, but without the middle initial.
+- 👀 I’m interested in business systems integrations, business intelligence, machine learning, and video game development.
+- 🌱 I’m currently learning things closely related to my position with SCU.
+- 💞️ I’m not really looking to collaborate at the moment... all of my time is being eaten by work and family.
+- 📫 You can find me on linkedin - link is in the bio.
 
 <!---
 StevenSDove/StevenSDove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
